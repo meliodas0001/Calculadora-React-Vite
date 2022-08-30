@@ -1,9 +1,3 @@
-# VRST Boilerplate ⚡
-
-Vrst stands for [Vite](https://github.com/vitejs/vite), [React](https://github.com/microsoft/TypeScript), [Styed-Components](https://github.com/styled-components/styled-components), [TypeScript](https://github.com/microsoft/TypeScript).
-
-> It's fast & faster than create-react-app! 🏃‍♂️
-
 ## Installation
 
 Choose an option:
@@ -14,12 +8,6 @@ Choose an option:
   - Replace the `<project-name>` with the title of your project.
 
 ## Quick Start
-
-- Change directory to your project:
-
-```shell
-cd <project-name>
-```
 
 - Install the dependencies:
 
@@ -39,19 +27,3 @@ yarn install or yarn
 yarn dev
 ```
 
-- Reinitialize the git repository (_optional_).
-
-```shell
-# this will remove the existing remote
-rm -rf .git
-
-# initialize an empty git repository
-git init
-```
-
-## Features
-
-- Removed CSS files.
-- Code structure.
-- CSS reset using styled-components GlobalStyles
-- Poppins as default font
